@@ -1,0 +1,114 @@
+# Privacy Policy for CityZen Adventures Pinner
+
+**Effective Date:** October 7, 2025  
+**Last Updated:** October 7, 2025
+
+## Introduction
+
+CityZen Adventures ("we," "our," or "us") operates the CityZen Adventures Pinner application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+
+By using the App, you agree to the collection and use of information in accordance with this policy.
+
+## Information We Collect
+
+### Information from Pinterest
+When you connect your Pinterest account to our App, we access:
+- Your Pinterest user profile information (username, profile picture)
+- Your boards and board information
+- Your pins and pin information
+- Public content you interact with through the App
+
+### Authentication Data
+We collect and temporarily store:
+- OAuth tokens provided by Pinterest for authentication
+- Session information necessary to maintain your logged-in state
+
+### Automatically Collected Information
+We may collect:
+- Device information (browser type, operating system)
+- Usage data (features accessed, time spent in app)
+- IP address and general location information
+
+## How We Use Your Information
+
+We use the information we collect to:
+- Provide and maintain the App's functionality
+- Enable you to browse and organize your Pinterest content
+- Authenticate your identity through Pinterest's OAuth system
+- Improve and optimize the App experience
+- Respond to your requests and provide customer support
+
+## Data Storage and Security
+
+- **OAuth Tokens:** Stored securely during your active session only
+- **User Data:** We do not permanently store your Pinterest content on our servers
+- **Security Measures:** We implement industry-standard security measures to protect your information
+- **Session Data:** Cleared when you log out or your session expires
+
+## Third-Party Services
+
+### Pinterest
+Our App integrates with Pinterest's API and is subject to Pinterest's Terms of Service and Privacy Policy. When you authorize our App, you're granting us permission to access your Pinterest data as described in Pinterest's authorization flow.
+
+We do not sell, trade, or share your Pinterest data with any third parties.
+
+## Data Retention
+
+- Active session data is retained only while you are logged in
+- We do not retain your Pinterest content after you log out
+- OAuth tokens are invalidated upon logout or session expiration
+- Aggregated, anonymized usage statistics may be retained for app improvement purposes
+
+## Your Rights and Choices
+
+You have the right to:
+- Revoke the App's access to your Pinterest account at any time through Pinterest's settings
+- Request information about data we have collected
+- Request deletion of your data
+- Opt out of using the App at any time
+
+To revoke access:
+1. Go to Pinterest Settings
+2. Navigate to "Apps" or "Security"
+3. Remove "CityZen Adventures Pinner" from authorized apps
+
+## Children's Privacy
+
+Our App is not intended for users under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately.
+
+## International Users
+
+Your information may be transferred to and processed in the United States or other countries where we operate. By using the App, you consent to such transfers.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Posting the new Privacy Policy on this page
+- Updating the "Last Updated" date
+- Providing notice within the App (for material changes)
+
+Your continued use of the App after changes constitutes acceptance of the updated policy.
+
+## California Privacy Rights
+
+If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA):
+- Right to know what personal information is collected
+- Right to know if personal information is sold or disclosed
+- Right to opt-out of the sale of personal information
+- Right to request deletion of personal information
+- Right to non-discrimination for exercising your rights
+
+We do not sell personal information.
+
+## Contact Us
+
+If you have questions or concerns about this Privacy Policy or our data practices, please contact us:
+
+**CityZen Adventures**  
+Email: contact@cityzenadventures.com  
+
+For Pinterest-specific privacy concerns, please also refer to Pinterest's Privacy Policy at https://policy.pinterest.com/privacy-policy
+
+## Consent
+
+By using CityZen Adventures Pinner, you consent to this Privacy Policy and agree to its terms.
